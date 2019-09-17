@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	prenota appuntamento
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,055556	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	gestione appuntamento
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota appuntamento
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,055556	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	gestione appuntamento
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+None	2,642857	pizza
+None	5,285714	riservare una camera
+None	5,285714	fermare un volo
+None	2,642857	voglio un piatto di pasta
+None	2,642857	film
+None	2,642857	pizza
+None	5,285714	riservare una camera
+None	5,285714	fermare un volo
+None	2,642857	voglio un piatto di pasta
+None	2,642857	film

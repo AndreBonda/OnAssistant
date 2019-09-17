@@ -1,0 +1,67 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,137931	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,137931	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,137931	vedere appuntamenti
+l_OnAssistant-prenotazione	2,137931	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,137931	prenota un appuntamento
+l_OnAssistant-prenotazione	2,137931	prenota una prenotazione
+l_OnAssistant-prenotazione	2,137931	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,137931	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,137931	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,137931	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,137931	appuntamento
+l_OnAssistant-prenotazione	2,137931	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,137931	prenota appuntamento
+l_OnAssistant-prenotazione	2,137931	vorrei modificare
+l_OnAssistant-prenotazione	2,137931	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	2,137931	è possibile fermare una prenotazione?
+l_OnAssistant-prenotazione	2,137931	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,137931	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,137931	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	2,137931	spostare appuntamento
+l_OnAssistant-prenotazione	2,137931	prenotare nuovo
+l_OnAssistant-prenotazione	2,137931	nuovo appuntamento
+l_OnAssistant-prenotazione	2,137931	gestione appuntamento
+l_OnAssistant-prenotazione	2,137931	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,137931	gestire appuntamenti
+l_OnAssistant-prenotazione	2,137931	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	2,137931	cambiare un appuntamento
+l_OnAssistant-prenotazione	2,137931	cancella un appuntamento
+l_OnAssistant-prenotazione	2,137931	vorrei rimandare un appuntamento grazie
+l_OnAssistant-refertazione	5,166667	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	5,166667	visualizzare i miei referti
+l_OnAssistant-refertazione	5,166667	mostrare i referti
+l_OnAssistant-refertazione	5,166667	referti
+l_OnAssistant-refertazione	5,166667	vorrei vedere i miei referti
+l_OnAssistant-refertazione	5,166667	come posso vedere i referti medici?
+l_OnAssistant-refertazione	5,166667	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	5,166667	visualizzare i miei referti
+l_OnAssistant-refertazione	5,166667	mostrare i referti
+l_OnAssistant-refertazione	5,166667	referti
+l_OnAssistant-refertazione	5,166667	vorrei vedere i miei referti
+l_OnAssistant-refertazione	5,166667	come posso vedere i referti medici?
+None	2	è possibile prenotare una camera per un albergo?
+None	2	consigliami una canzone
+None	2	com'è il tempo oggi
+None	2	canzone
+None	2	prenotami un volo
+None	2	film
+None	4	risultato partite di calcio
+None	2	che ore sono?
+None	2	pasta
+None	2	tempo
+None	2	hotel
+None	4	quanti anni hai?
+None	4	riservare una camera
+None	2	vorrei prenotare un hotel
+None	2	vorrei ordinare una pizza
+None	2	pizza
+None	2	che film danno al cinema?
+None	2	aereo
+None	4	fermare un volo
+None	2	che giorno è oggi?
+None	2	quali film ci sono al cinema?
+None	4	raccontami una barzelletta
+None	2	albergo
+None	4	ordinare del cibo
+None	2	voglio un piatto di pasta

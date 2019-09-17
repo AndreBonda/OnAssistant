@@ -1,0 +1,11 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\bin\Debug\netcoreapp2.0\QnABot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\bin\Debug\netcoreapp2.0\QnABot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\bin\Debug\netcoreapp2.0\QnABot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\bin\Debug\netcoreapp2.0\QnABot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\bin\Debug\netcoreapp2.0\QnABot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\obj\Debug\netcoreapp2.0\QnABot.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\obj\Debug\netcoreapp2.0\QnABot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\obj\Debug\netcoreapp2.0\QnABot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\obj\Debug\netcoreapp2.0\QnABot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\obj\Debug\netcoreapp2.0\QnABot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\11.qnamaker\obj\Debug\netcoreapp2.0\QnABot.pdb

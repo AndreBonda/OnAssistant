@@ -1,0 +1,9 @@
+Utterance	Expected and Predicted Intent	Other High Scoring Intents
+vedere appuntamenti	   l_OnAssistant-prenotazione	l_OnAssistant-refertazione
+tempo	   l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+aereo	   l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+pasta	   l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+hotel	   l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+vorrei vedere i miei referti	   l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+film	   l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+pizza	   l_OnAssistant-refertazione	l_OnAssistant-prenotazione

@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,055556	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,055556	da martedi fino sabato
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,055556	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,055556	da martedi fino sabato
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+None	2,3125	vorrei ordinare una pizza
+None	4,625	ordinare del cibo
+None	4,625	quanti anni hai?
+None	2,3125	vorrei prenotare un hotel
+None	4,625	fermare un volo
+None	2,3125	vorrei ordinare una pizza
+None	4,625	ordinare del cibo
+None	4,625	quanti anni hai?
+None	2,3125	vorrei prenotare un hotel
+None	4,625	fermare un volo

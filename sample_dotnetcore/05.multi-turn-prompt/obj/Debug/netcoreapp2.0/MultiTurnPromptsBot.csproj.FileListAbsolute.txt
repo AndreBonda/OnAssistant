@@ -1,0 +1,24 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.pdb
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.deps.json
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.runtimeconfig.json
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.dll
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\bin\Debug\netcoreapp2.0\MultiTurnPromptsBot.pdb
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.dll
+C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\sample_dotnetcore\05.multi-turn-prompt\obj\Debug\netcoreapp2.0\MultiTurnPromptsBot.pdb

@@ -1,0 +1,32 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	4,052631	si continua
+l_OnAssistant-prenotazione	4,052631	confermo
+l_OnAssistant-prenotazione	4,052631	no grazie
+l_OnAssistant-prenotazione	4,052631	si vai avanti perfavore
+l_OnAssistant-prenotazione	4,052631	non voglio
+l_OnAssistant-prenotazione	4,052631	prenotami un volo
+l_OnAssistant-prenotazione	4,052631	raccontami una barzelletta
+l_OnAssistant-prenotazione	4,052631	è possibile prenotare una camera per un albergo
+l_OnAssistant-prenotazione	4,052631	ordinare del cibo
+l_OnAssistant-prenotazione	4,052631	com'è il tempo oggi
+l_OnAssistant-prenotazione	4,052631	annulla
+l_OnAssistant-prenotazione	4,052631	si confermo
+l_OnAssistant-prenotazione	4,052631	prenota appuntamento
+l_OnAssistant-prenotazione	4,052631	come posso prenotare gli appuntamenti
+l_OnAssistant-prenotazione	4,052631	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	4,052631	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	4,052631	vorrei ordinare una pizza
+l_OnAssistant-prenotazione	4,052631	va bene procedi
+l_OnAssistant-prenotazione	4,052631	si certo
+l_OnAssistant-refertazione	6,416667	quanti anni hai
+l_OnAssistant-refertazione	6,416667	tempo
+l_OnAssistant-refertazione	6,416667	risultato partite di calcio
+l_OnAssistant-refertazione	6,416667	fermare un volo
+l_OnAssistant-refertazione	6,416667	quanti anni hai
+l_OnAssistant-refertazione	6,416667	tempo
+l_OnAssistant-refertazione	6,416667	risultato partite di calcio
+l_OnAssistant-refertazione	6,416667	fermare un volo
+l_OnAssistant-refertazione	6,416667	quanti anni hai
+l_OnAssistant-refertazione	6,416667	tempo
+l_OnAssistant-refertazione	6,416667	risultato partite di calcio
+l_OnAssistant-refertazione	6,416667	fermare un volo

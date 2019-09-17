@@ -1,0 +1,95 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	1	fermati
+l_OnAssistant-prenotazione	1	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	1	appuntamento
+l_OnAssistant-prenotazione	1	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	1	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	1	ok grazie
+l_OnAssistant-prenotazione	1	cancella un appuntamento
+l_OnAssistant-prenotazione	1	certo
+l_OnAssistant-prenotazione	1	continuare
+l_OnAssistant-prenotazione	1	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	1	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	1	avanti
+l_OnAssistant-prenotazione	1	nuovo appuntamento
+l_OnAssistant-prenotazione	1	anulla tutto
+l_OnAssistant-prenotazione	1	ok
+l_OnAssistant-prenotazione	1	no, non mi interessa
+l_OnAssistant-prenotazione	1	procedere
+l_OnAssistant-prenotazione	1	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	1	cambiare un appuntamento
+l_OnAssistant-prenotazione	1	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	1	basta
+l_OnAssistant-prenotazione	1	spostare appuntamento
+l_OnAssistant-prenotazione	1	si vada avanti
+l_OnAssistant-prenotazione	1	perfetto
+l_OnAssistant-prenotazione	1	non è necessario
+l_OnAssistant-prenotazione	1	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	1	si ok
+l_OnAssistant-prenotazione	1	annulla
+l_OnAssistant-prenotazione	1	da martedi fino sabato
+l_OnAssistant-prenotazione	1	fermare
+l_OnAssistant-prenotazione	1	prenotami un appuntamento
+l_OnAssistant-prenotazione	1	va bene
+l_OnAssistant-prenotazione	1	annullare
+l_OnAssistant-prenotazione	1	non voglio
+l_OnAssistant-prenotazione	1	non va bene
+l_OnAssistant-prenotazione	1	vorrei modificare
+l_OnAssistant-prenotazione	1	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	1	cancellare
+l_OnAssistant-prenotazione	1	vedere appuntamenti
+l_OnAssistant-prenotazione	1	si
+l_OnAssistant-prenotazione	1	prenota appuntamento
+l_OnAssistant-prenotazione	1	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	1	disponibilità che vanno dal sabato al martedì
+l_OnAssistant-prenotazione	1	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	1	no
+l_OnAssistant-prenotazione	1	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	1	prenota una prenotazione
+l_OnAssistant-prenotazione	1	no grazie
+l_OnAssistant-prenotazione	1	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	1	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	1	si continua
+l_OnAssistant-prenotazione	1	gestire appuntamenti
+l_OnAssistant-prenotazione	1	stop
+l_OnAssistant-prenotazione	1	confermo
+l_OnAssistant-prenotazione	1	preferirei al pomeriggio
+l_OnAssistant-prenotazione	1	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	1	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	1	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	1	certamente
+l_OnAssistant-prenotazione	1	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	1	prenota un appuntamento
+l_OnAssistant-prenotazione	1	si confermo
+l_OnAssistant-prenotazione	1	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-refertazione	5,727273	vorrei vedere i miei referti
+l_OnAssistant-refertazione	5,727273	visualizzare i miei referti
+l_OnAssistant-refertazione	5,727273	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	5,727273	come posso vedere i referti medici?
+l_OnAssistant-refertazione	5,727273	referti
+l_OnAssistant-refertazione	5,727273	vorrei vedere i miei referti
+l_OnAssistant-refertazione	5,727273	visualizzare i miei referti
+l_OnAssistant-refertazione	5,727273	vorrei vedere i miei referti
+l_OnAssistant-refertazione	5,727273	visualizzare i miei referti
+l_OnAssistant-refertazione	5,727273	vorrei vedere i miei referti
+l_OnAssistant-refertazione	5,727273	visualizzare i miei referti
+None	2,625	voglio un piatto di pasta
+None	5,25	quanti anni hai?
+None	2,625	vorrei prenotare un hotel
+None	2,625	consigliami una canzone
+None	5,25	riservare una camera
+None	2,625	pasta
+None	2,625	com'è il tempo oggi
+None	2,625	che film danno al cinema?
+None	2,625	hotel
+None	2,625	che ore sono?
+None	2,625	tempo
+None	2,625	quali film ci sono al cinema?
+None	2,625	prenotami un volo
+None	2,625	è possibile prenotare una camera per un albergo?
+None	2,625	canzone
+None	2,625	vorrei ordinare una pizza
+None	2,625	pizza
+None	5,25	fermare un volo
+None	2,625	albergo
+None	5,25	raccontami una barzelletta

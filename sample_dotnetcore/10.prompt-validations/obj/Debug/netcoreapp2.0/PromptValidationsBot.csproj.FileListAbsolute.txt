@@ -1,0 +1,11 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\bin\Debug\netcoreapp2.0\PromptValidationsBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\bin\Debug\netcoreapp2.0\PromptValidationsBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\bin\Debug\netcoreapp2.0\PromptValidationsBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\bin\Debug\netcoreapp2.0\PromptValidationsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\bin\Debug\netcoreapp2.0\PromptValidationsBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\obj\Debug\netcoreapp2.0\PromptValidationsBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\obj\Debug\netcoreapp2.0\PromptValidationsBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\obj\Debug\netcoreapp2.0\PromptValidationsBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\obj\Debug\netcoreapp2.0\PromptValidationsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\10.prompt-validations\obj\Debug\netcoreapp2.0\PromptValidationsBot.pdb

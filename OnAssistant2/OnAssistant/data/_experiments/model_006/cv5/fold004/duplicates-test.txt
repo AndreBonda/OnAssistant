@@ -1,0 +1,2 @@
+Utterance	Intents
+riservare una camera	l_OnAssistant-prenotazione, l_OnAssistant-refertazione

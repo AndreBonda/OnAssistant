@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	2,055556	prenota una prenotazione
+l_OnAssistant-prenotazione	2,055556	desidero le disponibilità del pomeriggio
+l_OnAssistant-prenotazione	2,055556	prenota un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	orario mattiniero
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	2,055556	prenota una prenotazione
+l_OnAssistant-prenotazione	2,055556	desidero le disponibilità del pomeriggio
+l_OnAssistant-prenotazione	2,055556	prenota un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	orario mattiniero
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+None	3,7	che film danno al cinema?
+None	3,7	albergo
+None	3,7	canzone
+None	3,7	com'è il tempo oggi
+None	3,7	vorrei prenotare un hotel
+None	3,7	che film danno al cinema?
+None	3,7	albergo
+None	3,7	canzone
+None	3,7	com'è il tempo oggi
+None	3,7	vorrei prenotare un hotel

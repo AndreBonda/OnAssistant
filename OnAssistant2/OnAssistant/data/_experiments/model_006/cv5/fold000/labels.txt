@@ -1,0 +1,3 @@
+Label	LabelName	Samples
+0	l_OnAssistant-prenotazione	96
+1	l_OnAssistant-refertazione	28

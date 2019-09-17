@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	vorrei modificare
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	2,055556	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	preferirei al pomeriggio
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	vorrei modificare
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	2,055556	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	preferirei al pomeriggio
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+None	5,285714	risultato partite di calcio
+None	5,285714	riservare una camera
+None	2,642857	albergo
+None	2,642857	che film danno al cinema?
+None	2,642857	vorrei ordinare una pizza
+None	5,285714	risultato partite di calcio
+None	5,285714	riservare una camera
+None	2,642857	albergo
+None	2,642857	che film danno al cinema?
+None	2,642857	vorrei ordinare una pizza

@@ -1,0 +1,37 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	3,9375	continuare
+l_OnAssistant-prenotazione	3,9375	da martedi fino sabato
+l_OnAssistant-prenotazione	3,9375	prenota una prenotazione
+l_OnAssistant-prenotazione	3,9375	va bene
+l_OnAssistant-prenotazione	3,9375	preferirei al pomeriggio
+l_OnAssistant-prenotazione	3,9375	prenota appuntamento
+l_OnAssistant-prenotazione	3,9375	anulla tutto
+l_OnAssistant-prenotazione	3,9375	gestire appuntamenti
+l_OnAssistant-prenotazione	3,9375	cancellare una prenotazione
+l_OnAssistant-prenotazione	3,9375	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	3,9375	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	3,9375	gestione appuntamento
+l_OnAssistant-prenotazione	3,9375	ok
+l_OnAssistant-prenotazione	3,9375	spostare appuntamento
+l_OnAssistant-prenotazione	3,9375	stop
+l_OnAssistant-prenotazione	3,9375	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+None	4,5	che film danno al cinema?
+None	4,5	è possibile prenotare una camera per un albergo?
+None	9	fermare un volo
+None	9	risultato partite di calcio
+None	4,5	voglio un piatto di pasta
+None	4,5	che film danno al cinema?
+None	4,5	è possibile prenotare una camera per un albergo?
+None	9	fermare un volo
+None	9	risultato partite di calcio
+None	4,5	voglio un piatto di pasta

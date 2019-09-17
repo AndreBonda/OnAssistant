@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,055556	da martedi fino sabato
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	cancella un appuntamento
+l_OnAssistant-prenotazione	2,055556	orario mattiniero
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	mercoledi
+l_OnAssistant-prenotazione	2,055556	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-prenotazione	2,055556	prenota appuntamento
+l_OnAssistant-prenotazione	2,055556	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,055556	da martedi fino sabato
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	cancella un appuntamento
+l_OnAssistant-prenotazione	2,055556	orario mattiniero
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	mercoledi
+l_OnAssistant-prenotazione	2,055556	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-prenotazione	2,055556	prenota appuntamento
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+None	3,083333	prenotami un volo
+None	3,083333	consigliami una canzone
+None	3,083333	che ore sono?
+None	6,166667	ordinare del cibo
+None	3,083333	tempo
+None	3,083333	prenotami un volo
+None	3,083333	consigliami una canzone
+None	3,083333	che ore sono?
+None	6,166667	ordinare del cibo
+None	3,083333	tempo

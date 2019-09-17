@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	prenota appuntamento
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota appuntamento
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	3,7	fammi vedere i miei referti perfavore
+None	2,642857	canzone
+None	5,285714	ordinare del cibo
+None	5,285714	riservare una camera
+None	2,642857	voglio un piatto di pasta
+None	2,642857	vorrei prenotare un hotel
+None	2,642857	canzone
+None	5,285714	ordinare del cibo
+None	5,285714	riservare una camera
+None	2,642857	voglio un piatto di pasta
+None	2,642857	vorrei prenotare un hotel

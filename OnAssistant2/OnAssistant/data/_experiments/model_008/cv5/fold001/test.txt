@@ -1,0 +1,37 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	3,9375	procedere
+l_OnAssistant-prenotazione	3,9375	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	3,9375	cambiare un appuntamento
+l_OnAssistant-prenotazione	3,9375	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	3,9375	basta
+l_OnAssistant-prenotazione	3,9375	spostare appuntamento
+l_OnAssistant-prenotazione	3,9375	si vada avanti
+l_OnAssistant-prenotazione	3,9375	perfetto
+l_OnAssistant-prenotazione	3,9375	non è necessario
+l_OnAssistant-prenotazione	3,9375	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	3,9375	si ok
+l_OnAssistant-prenotazione	3,9375	annulla
+l_OnAssistant-prenotazione	3,9375	da martedi fino sabato
+l_OnAssistant-prenotazione	3,9375	fermare
+l_OnAssistant-prenotazione	3,9375	prenotami un appuntamento
+l_OnAssistant-prenotazione	3,9375	va bene
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+l_OnAssistant-refertazione	6,3	visualizzare i miei referti
+None	6,3	pasta
+None	6,3	com'è il tempo oggi
+None	6,3	che film danno al cinema?
+None	6,3	hotel
+None	6,3	che ore sono?
+None	6,3	pasta
+None	6,3	com'è il tempo oggi
+None	6,3	che film danno al cinema?
+None	6,3	hotel
+None	6,3	che ore sono?

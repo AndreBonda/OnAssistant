@@ -1,0 +1,10 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\bin\Debug\netcoreapp2.0\QnABotAppInsights.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\bin\Debug\netcoreapp2.0\QnABotAppInsights.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\bin\Debug\netcoreapp2.0\QnABotAppInsights.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\bin\Debug\netcoreapp2.0\QnABotAppInsights.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\bin\Debug\netcoreapp2.0\QnABotAppInsights.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\obj\Debug\netcoreapp2.0\QnABotAppInsights.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\obj\Debug\netcoreapp2.0\QnABotAppInsights.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\obj\Debug\netcoreapp2.0\QnABotAppInsights.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\obj\Debug\netcoreapp2.0\QnABotAppInsights.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\20.qna-with-appinsights\obj\Debug\netcoreapp2.0\QnABotAppInsights.pdb

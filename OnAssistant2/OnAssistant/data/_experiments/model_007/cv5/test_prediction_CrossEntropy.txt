@@ -1,0 +1,4 @@
+Intent	l_OnAssistant-prenotazione	l_OnAssistant-refertazione	   None
+l_OnAssistant-prenotazione	0,10351	0,00156	0,07938
+l_OnAssistant-refertazione	0,00086	0,00397	0,00075
+ None	0,08252	0,00029	0,08168

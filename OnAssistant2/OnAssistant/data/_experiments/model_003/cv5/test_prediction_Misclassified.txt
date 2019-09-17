@@ -1,0 +1,17 @@
+Utterance	Expected Intent	Predicted Intent
+raccontami una barzelletta	l_OnAssistant-prenotazione	l_OnAssistant-refertazione
+quanti anni hai?	l_OnAssistant-prenotazione	l_OnAssistant-refertazione
+ordinare del cibo	l_OnAssistant-prenotazione	l_OnAssistant-refertazione
+prenotami un volo	l_OnAssistant-prenotazione	l_OnAssistant-refertazione
+fermare un volo	l_OnAssistant-prenotazione	l_OnAssistant-refertazione
+riservare una camera	l_OnAssistant-prenotazione	l_OnAssistant-refertazione
+mercoledi	l_OnAssistant-prenotazione	            None
+vorrei modificare	l_OnAssistant-prenotazione	            None
+ordinare del cibo	l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+raccontami una barzelletta	l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+risultato partite di calcio	l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+fermare un volo	l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+riservare una camera	l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+quanti anni hai?	l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+canzone	l_OnAssistant-refertazione	l_OnAssistant-prenotazione
+albergo	l_OnAssistant-refertazione	            None

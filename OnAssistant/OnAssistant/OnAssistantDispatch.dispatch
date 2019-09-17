@@ -1,0 +1,36 @@
+{
+  "authoringRegion": "westus",
+  "subscriptionRegion": "westus",
+  "hierarchical": true,
+  "services": [
+    {
+      "appId": "1987a8ba-2b45-4985-bd0b-821f0755d9f5",
+      "authoringKey": "301c7ee5352a41a8b7a0d84ba17920e0",
+      "version": "0.3",
+      "region": "westus",
+      "type": "luis",
+      "name": "OnAssistant-prenotazione",
+      "id": "1"
+    },
+    {
+      "appId": "9bcf2522-15be-470c-a94d-4c0ec6778419",
+      "authoringKey": "301c7ee5352a41a8b7a0d84ba17920e0",
+      "version": "0.0",
+      "region": "westus",
+      "type": "luis",
+      "name": "OnAssistant-refertazione",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "fe6e355d-0781-4ea7-a74d-cbf4b8cc4203",
+  "authoringKey": "301c7ee5352a41a8b7a0d84ba17920e0",
+  "subscriptionKey": "301c7ee5352a41a8b7a0d84ba17920e0",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "OnAssistantDispatch"
+}

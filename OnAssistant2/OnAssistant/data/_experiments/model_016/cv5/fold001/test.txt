@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	orario mattiniero
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,055556	prenotare nuovo
+l_OnAssistant-prenotazione	2,055556	preferirei al pomeriggio
+l_OnAssistant-prenotazione	2,055556	cancella un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota una prenotazione
+l_OnAssistant-prenotazione	2,055556	disponibilità che vanno dal sabato al martedì
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	orario mattiniero
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,055556	prenotare nuovo
+l_OnAssistant-prenotazione	2,055556	preferirei al pomeriggio
+l_OnAssistant-prenotazione	2,055556	cancella un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota una prenotazione
+l_OnAssistant-prenotazione	2,055556	disponibilità che vanno dal sabato al martedì
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+None	3,7	com'è il tempo oggi
+None	3,7	tempo
+None	3,7	vorrei ordinare una pizza
+None	3,7	quali film ci sono al cinema?
+None	3,7	è possibile prenotare una camera per un albergo?
+None	3,7	com'è il tempo oggi
+None	3,7	tempo
+None	3,7	vorrei ordinare una pizza
+None	3,7	quali film ci sono al cinema?
+None	3,7	è possibile prenotare una camera per un albergo?

@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	vorrei modificare
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	cambiare un appuntamento
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	vorrei modificare
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	cambiare un appuntamento
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+None	3,083333	che giorno è oggi?
+None	6,166667	raccontami una barzelletta
+None	3,083333	consigliami una canzone
+None	3,083333	pizza
+None	3,083333	voglio un piatto di pasta
+None	3,083333	che giorno è oggi?
+None	6,166667	raccontami una barzelletta
+None	3,083333	consigliami una canzone
+None	3,083333	pizza
+None	3,083333	voglio un piatto di pasta

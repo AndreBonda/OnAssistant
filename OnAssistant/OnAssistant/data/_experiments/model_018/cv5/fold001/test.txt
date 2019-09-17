@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	da martedi fino sabato
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	mercoledi
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	da martedi fino sabato
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	mercoledi
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+None	3,7	film
+None	3,7	hotel
+None	3,7	aereo
+None	3,7	consigliami una canzone
+None	3,7	vorrei ordinare una pizza
+None	3,7	film
+None	3,7	hotel
+None	3,7	aereo
+None	3,7	consigliami una canzone
+None	3,7	vorrei ordinare una pizza

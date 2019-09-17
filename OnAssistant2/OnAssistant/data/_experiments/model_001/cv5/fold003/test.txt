@@ -1,0 +1,33 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,083333	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	2,083333	spostare appuntamento
+l_OnAssistant-prenotazione	2,083333	prenotare nuovo
+l_OnAssistant-prenotazione	2,083333	nuovo appuntamento
+l_OnAssistant-prenotazione	2,083333	gestione appuntamento
+l_OnAssistant-prenotazione	2,083333	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,083333	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	2,083333	spostare appuntamento
+l_OnAssistant-prenotazione	2,083333	prenotare nuovo
+l_OnAssistant-prenotazione	2,083333	nuovo appuntamento
+l_OnAssistant-prenotazione	2,083333	gestione appuntamento
+l_OnAssistant-prenotazione	2,083333	cancellare una prenotazione
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+l_OnAssistant-refertazione	2,5	referti
+None	2,083333	pizza
+None	2,083333	che film danno al cinema?
+None	2,083333	aereo
+None	4,166667	fermare un volo
+None	2,083333	che giorno è oggi?
+None	2,083333	pizza
+None	2,083333	che film danno al cinema?
+None	2,083333	aereo
+None	4,166667	fermare un volo
+None	2,083333	che giorno è oggi?

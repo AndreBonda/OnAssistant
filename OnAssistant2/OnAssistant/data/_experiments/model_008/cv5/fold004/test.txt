@@ -1,0 +1,37 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	3,9375	no grazie
+l_OnAssistant-prenotazione	3,9375	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	3,9375	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	3,9375	si continua
+l_OnAssistant-prenotazione	3,9375	gestire appuntamenti
+l_OnAssistant-prenotazione	3,9375	stop
+l_OnAssistant-prenotazione	3,9375	confermo
+l_OnAssistant-prenotazione	3,9375	preferirei al pomeriggio
+l_OnAssistant-prenotazione	3,9375	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	3,9375	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	3,9375	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	3,9375	certamente
+l_OnAssistant-prenotazione	3,9375	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	3,9375	prenota un appuntamento
+l_OnAssistant-prenotazione	3,9375	si confermo
+l_OnAssistant-prenotazione	3,9375	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+l_OnAssistant-refertazione	6,3	come posso vedere i referti medici?
+None	4,5	vorrei ordinare una pizza
+None	4,5	pizza
+None	9	fermare un volo
+None	4,5	albergo
+None	9	raccontami una barzelletta
+None	4,5	vorrei ordinare una pizza
+None	4,5	pizza
+None	9	fermare un volo
+None	4,5	albergo
+None	9	raccontami una barzelletta

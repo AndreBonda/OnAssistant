@@ -1,0 +1,5 @@
+Utterance	Expected Intent	Predicted Intent
+prenotare nuovo	l_OnAssistant-prenotazione	            None
+gradisco la mattina	l_OnAssistant-prenotazione	            None
+mercoledi	l_OnAssistant-prenotazione	            None
+vorrei modificare	l_OnAssistant-prenotazione	            None

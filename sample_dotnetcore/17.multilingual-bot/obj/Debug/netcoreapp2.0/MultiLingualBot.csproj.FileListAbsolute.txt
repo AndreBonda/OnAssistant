@@ -1,0 +1,12 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\bin\Debug\netcoreapp2.0\MultiLingualBot.bot
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\bin\Debug\netcoreapp2.0\MultiLingualBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\bin\Debug\netcoreapp2.0\MultiLingualBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\bin\Debug\netcoreapp2.0\MultiLingualBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\bin\Debug\netcoreapp2.0\MultiLingualBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\bin\Debug\netcoreapp2.0\MultiLingualBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\obj\Debug\netcoreapp2.0\MultiLingualBot.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\obj\Debug\netcoreapp2.0\MultiLingualBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\obj\Debug\netcoreapp2.0\MultiLingualBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\obj\Debug\netcoreapp2.0\MultiLingualBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\obj\Debug\netcoreapp2.0\MultiLingualBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\17.multilingual-bot\obj\Debug\netcoreapp2.0\MultiLingualBot.pdb

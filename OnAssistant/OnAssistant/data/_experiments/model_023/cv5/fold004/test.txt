@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	prenotare nuovo
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	2,055556	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	prenotare nuovo
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	orario pomeridiano del lunedì
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+None	2,642857	consigliami una canzone
+None	5,285714	risultato partite di calcio
+None	5,285714	quanti anni hai?
+None	2,642857	film
+None	2,642857	è possibile prenotare una camera per un albergo?
+None	2,642857	consigliami una canzone
+None	5,285714	risultato partite di calcio
+None	5,285714	quanti anni hai?
+None	2,642857	film
+None	2,642857	è possibile prenotare una camera per un albergo?

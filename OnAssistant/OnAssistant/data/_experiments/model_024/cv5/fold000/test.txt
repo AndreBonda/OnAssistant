@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	prenota un appuntamento
+l_OnAssistant-prenotazione	2,055556	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	2,055556	appuntamento
+l_OnAssistant-prenotazione	2,055556	gestione appuntamento
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	prenotare nuovo
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	2,055556	prenota un appuntamento
+l_OnAssistant-prenotazione	2,055556	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	2,055556	appuntamento
+l_OnAssistant-prenotazione	2,055556	gestione appuntamento
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	prenotare nuovo
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+None	3,083333	quali film ci sono al cinema?
+None	3,083333	pizza
+None	3,083333	aereo
+None	6,166667	fermare un volo
+None	3,083333	com'è il tempo oggi
+None	3,083333	quali film ci sono al cinema?
+None	3,083333	pizza
+None	3,083333	aereo
+None	6,166667	fermare un volo
+None	3,083333	com'è il tempo oggi

@@ -1,0 +1,5 @@
+Ambiguous samples (percent of total per category)
+Expected and Predicted Intent	l_OnAssistant-prenotazione%	l_OnAssistant-refertazione%	 None%	Total%
+
+Ambiguous samples (absolute counts)
+Expected and Predicted Intent	l_OnAssistant-prenotazione	l_OnAssistant-refertazione	  None	 Total

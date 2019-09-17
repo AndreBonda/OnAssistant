@@ -1,0 +1,356 @@
+﻿> # Intents Definition
+
+## None
+- Vorrei ordinare una pizza
+- Voglio un piatto di pasta
+- Com'è il tempo oggi
+- Vorrei prenotare un Hotel
+- è possibile prenotare una camera per un albergo?
+- Quanti anni hai?
+- Raccontami una barzelletta
+- prenotami un volo
+- Fermare un volo
+- Riservare una camera
+- Ordinare del cibo
+- Risultato partite di calcio
+- Che film danno al cinema?
+- Consigliami una canzone
+- Quali film ci sono al cinema?
+- Che ore sono?
+- Che giorno è oggi?
+
+## Gestione Appuntamenti
+- Gestione appuntamento
+- Gestire le mie prenotazioni
+- Vorrei gestire le mie prenotazioni grazie
+- Gestire  i miei appuntamenti
+- Gestire appuntamenti
+- Appuntamento
+- Appuntamenti
+- Vedere appuntamenti
+- Prenotami un appuntamento
+- Prenotare un nuovo appuntamento
+- Prenotare nuovo
+- Nuovo appuntamento
+- Prenota un appuntamento
+- Prenota un nuovo appuntamento
+- Prenota una prenotazione
+- Prenota una nuova prenotazione
+- Prenota appuntamento
+- Salve vorrei prenotare un appuntamento
+- Eseguire una nuova prenotazione
+- Cancellare una prenotazione
+- Cancella un appuntamento
+- Vorrei eliminare un appuntamento grazie
+- Voglio rimuovere una prenotazione
+- Come posso prenotare gli appuntamenti?
+- è possibile fermare una prenotazione?
+- Posso cancellare un appuntamento?
+- Spostare appuntamento
+- Cambiare un appuntamento
+- Vorrei modificare
+- Vorrei rimandare un appuntamento grazie
+
+## Inserimento filtri giorni fascia
+- preferisco dal lunedì al giovedi
+- preferirei il martedi e il sabato
+- il martedi, mercoledi, venerdi e il sabato
+- da giovedi fino alla domenica
+- a partire da martedi fino la domenica
+- da martedi fino sabato
+- lunedi
+- martedi
+- mercoledi
+- giovedi
+- venerdi
+- sabato
+- domenica
+- mattina
+- pomeriggio
+- lunedì martedì mercoledì e anche la domenica
+- gradisco la mattina
+- orario mattiniero
+- desidero le disponibilità del pomeriggio
+- preferirei al pomeriggio
+- il mercoledi giovedì e venerdi al pomeriggio
+- di mattina dal venerdì alla domenica
+- disponibilità che vanno dal sabato al martedì
+- disponibilità tra il giovedì e la domenica di pomeriggio
+- orario pomeridiano del lunedì
+
+> Add patterns with pattern.any entitiy
+- {Giorno_patternAny} e {Giorno_patternAny}
+- {daGiorno_patternAny} e {aGiorno_patternAny}
+- il {Giorno_patternAny}, {Giorno_patternAny} e il {Giorno_patternAny}
+- a partire {daGiorno_patternAny} a {aGiorno_patternAny}
+- gradisco la {fasciaOra_patternAny}
+- preferisco {Giorno_patternAny}
+- orario {fasciaOra_patternAny}
+- desidero le disponibilità del {fasciaOra_patternAny}
+- orario {fasciaOra_patternAny} del {Giorno_patternAny}
+- i giorni sono {Giorno_patternAny} e {Giorno_patternAny}
+
+## Confermare
+- si
+- si grazie
+- certo
+- certamente
+- si certo
+- ok
+- ok grazie
+- va bene
+- perfetto
+- si ok
+- confermo
+- si confermo
+- procedere
+- va bene procedi
+- continuare
+- Ok desidero continuare
+- Si è di mio gradimento
+- gradisco
+- certo questa va bene
+- si va bene
+- questa sarebbe perfetta
+
+## Negare
+- no
+- no grazie
+- non va bene
+- non è necessario
+- non voglio
+- no, non mi interessa
+- no non è di mio gradimento
+- no non riesco
+- no, non sono presente
+- non posso
+- non riesco in questa data
+- sono occupato in questo giorno
+- negativo
+- non mi interessa
+- non posso in quella data
+- non posso quel giorno
+
+## Indietro
+- indietro
+- torna indietro
+- fammi vedere l'ultima
+- ritornare indietro
+- fammi vedere la precedente
+- voglio rivedere l'ultima
+- desidero rivedere la precedente
+- è possibile vedere quella di prima
+- tornare alla precedente
+- torna indietro, grazie
+- quella di prima
+- visualizza quella antecedente
+- ritorna alla precedente
+- la precedente
+
+## Avanti
+- avanti
+- vai avanti perfavore
+- vai avanti
+- continua
+- mostra la prossima
+- fammi vedere la prossima
+- successiva
+- altro
+- vai oltre
+- alla prossima
+- passa alla successiva
+- desidero vederne un'altra
+- voglio vedere il successivo
+- successivo
+- ulteriore
+- il prossimo
+
+## Stop
+- cancellare
+- annullare
+- basta
+- stop
+- fermare
+- fermati
+- annulla
+- anulla tutto
+- desidero fermare la procedura
+- voglio ricominciare
+- inizia da capo
+- ricominciare la prenotazione
+- annulla e ricomincia grazie
+- cancella tutto grazie
+- perfavore voglio ricominciare
+- cancella la prenotazione attuale perfavore
+
+$Giorno:Lunedi=
+- lunedì
+- lunedì
+
+$Giorno:Martedi=
+- martedì
+- martedi
+
+$Giorno:Mercoledi=
+- mercoledì
+- mercoledi
+
+$Giorno:Giovedi=
+- giovedì
+- giovedi
+
+$Giorno:Venerdi=
+- venerdì
+- venerdi
+
+$Giorno:Sabato=
+- sabato
+
+$Giorno:Domenica=
+- domenica
+
+$daGiorno:daLunedi=
+- da lunedì
+- da lunedi
+- dal lunedì
+- dal lunedi
+
+$daGiorno:daMartedi=
+- da martedì
+- da martedi
+- dal martedì
+- dal martedi
+
+$daGiorno:daMercoledi=
+- da mercoledì
+- da mercoledi
+- dal mercoledì
+- dal mercoledi
+
+$daGiorno:daGiovedi=
+- da giovedì
+- da giovedi
+- dal giovedì
+- dal giovedi
+
+$daGiorno:daVenerdi=
+- da venerdì
+- da venerdi
+- dal venerdì
+- dal venerdi
+
+$daGiorno:daSabato=
+- da sabato
+- dal sabato
+
+$daGiorno:daDomenica=
+- da domenica
+- dalla domenica
+
+$aGiorno:aLunedi=
+- a lunedì
+- a lunedi
+- al lunedì
+- al lunedi
+- fino lunedì
+- fino lunedi
+- fino il lunedì
+- fino il lunedi
+
+$aGiorno:aMartedi=
+- a martedì
+- a martedi
+- al martedì
+- al martedi
+- fino martedì
+- fino martedi
+- fino il martedì
+- fino il martedi
+
+$aGiorno:aMercoledi=
+- a mercoledì
+- a mercoledi
+- al mercoledì
+- al mercoledi
+- fino mercoledì
+- fino mercoledi
+- fino il mercoledì
+- fino il mercoledi
+
+$aGiorno:aGiovedi=
+- a giovedì
+- a giovedi
+- al giovedì
+- al giovedi
+- fino giovedì
+- fino giovedi
+- fino il giovedì
+- fino il giovedi
+
+$aGiorno:aVenerdi=
+- a venerdì
+- a venerdi
+- al venerdì
+- al venerdi
+- fino venerdì
+- fino venerdi
+- fino il venerdì
+- fino il venerdi
+
+$aGiorno:aSabato=
+- a sabato
+- al sabato
+- fino sabato
+- fino il sabato
+
+$aGiorno:aDomenica=
+- a domenica
+- alla domenica
+- fino domenica
+
+$fasciaOra:mattina=
+- mattino
+- mattina
+- mattinata
+- mattutina
+
+$fasciaOra:pomeriggio=
+- pomeriggio
+- pomeridiano
+- pomeridiana
+
+$Operation:nuovo=
+- nuovo
+- nuova
+- fissare
+- fissa
+- fissami
+- fermare
+- ferma
+- prenotare
+- prenotami
+- prenota
+
+$Operation:modifica=
+- spostare
+- sposta
+- spostami
+- modificare
+- modifica
+- cambiare
+- cambia
+- posticipare
+- posticipa
+- rimandare
+- rimanda
+- rimandami
+- rinviare
+- rinvia
+- rinviami
+
+$Operation:cancella=
+- eliminare
+- cancellare
+- revocare
+- rimuovere
+

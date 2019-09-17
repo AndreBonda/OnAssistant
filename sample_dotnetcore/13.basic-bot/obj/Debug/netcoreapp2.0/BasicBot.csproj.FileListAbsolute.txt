@@ -1,0 +1,12 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\obj\Debug\netcoreapp2.0\BasicBot.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\obj\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\13.basic-bot\bin\Debug\netcoreapp2.0\BotConfiguration.bot

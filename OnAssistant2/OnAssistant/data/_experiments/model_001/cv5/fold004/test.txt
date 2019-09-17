@@ -1,0 +1,33 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2	cancellare una prenotazione
+l_OnAssistant-prenotazione	2	gestire appuntamenti
+l_OnAssistant-prenotazione	2	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	2	cambiare un appuntamento
+l_OnAssistant-prenotazione	2	cancella un appuntamento
+l_OnAssistant-prenotazione	2	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	2	cancellare una prenotazione
+l_OnAssistant-prenotazione	2	gestire appuntamenti
+l_OnAssistant-prenotazione	2	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	2	cambiare un appuntamento
+l_OnAssistant-prenotazione	2	cancella un appuntamento
+l_OnAssistant-prenotazione	2	vorrei rimandare un appuntamento grazie
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,4	vorrei vedere i miei referti
+None	1,714286	quali film ci sono al cinema?
+None	3,428571	raccontami una barzelletta
+None	1,714286	albergo
+None	3,428571	ordinare del cibo
+None	1,714286	voglio un piatto di pasta
+None	1,714286	quali film ci sono al cinema?
+None	3,428571	raccontami una barzelletta
+None	1,714286	albergo
+None	3,428571	ordinare del cibo
+None	1,714286	voglio un piatto di pasta

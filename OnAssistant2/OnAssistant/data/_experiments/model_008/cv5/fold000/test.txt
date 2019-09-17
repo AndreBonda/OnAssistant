@@ -1,0 +1,37 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	3,9375	fermati
+l_OnAssistant-prenotazione	3,9375	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	3,9375	appuntamento
+l_OnAssistant-prenotazione	3,9375	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	3,9375	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	3,9375	ok grazie
+l_OnAssistant-prenotazione	3,9375	cancella un appuntamento
+l_OnAssistant-prenotazione	3,9375	certo
+l_OnAssistant-prenotazione	3,9375	continuare
+l_OnAssistant-prenotazione	3,9375	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	3,9375	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	3,9375	avanti
+l_OnAssistant-prenotazione	3,9375	nuovo appuntamento
+l_OnAssistant-prenotazione	3,9375	anulla tutto
+l_OnAssistant-prenotazione	3,9375	ok
+l_OnAssistant-prenotazione	3,9375	no, non mi interessa
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+l_OnAssistant-refertazione	6,3	vorrei vedere i miei referti
+None	4,5	voglio un piatto di pasta
+None	9	quanti anni hai?
+None	4,5	vorrei prenotare un hotel
+None	4,5	consigliami una canzone
+None	9	riservare una camera
+None	4,5	voglio un piatto di pasta
+None	9	quanti anni hai?
+None	4,5	vorrei prenotare un hotel
+None	4,5	consigliami una canzone
+None	9	riservare una camera

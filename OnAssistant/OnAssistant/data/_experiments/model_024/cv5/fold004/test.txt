@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	è possibile fermare una prenotazione?
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	disponibilità che vanno dal sabato al martedì
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	è possibile fermare una prenotazione?
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	preferisco dal lunedì al giovedi
+l_OnAssistant-prenotazione	2,055556	disponibilità che vanno dal sabato al martedì
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+l_OnAssistant-refertazione	3,7	mostrare i referti
+None	3,083333	pasta
+None	3,083333	hotel
+None	3,083333	film
+None	6,166667	raccontami una barzelletta
+None	3,083333	vorrei prenotare un hotel
+None	3,083333	pasta
+None	3,083333	hotel
+None	3,083333	film
+None	6,166667	raccontami una barzelletta
+None	3,083333	vorrei prenotare un hotel

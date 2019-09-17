@@ -1,0 +1,32 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	4,052631	vorrei modificare
+l_OnAssistant-prenotazione	4,052631	si
+l_OnAssistant-prenotazione	4,052631	avanti
+l_OnAssistant-prenotazione	4,052631	desidero le disponibilità del pomeriggio
+l_OnAssistant-prenotazione	4,052631	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	4,052631	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	4,052631	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	4,052631	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	4,052631	ok grazie
+l_OnAssistant-prenotazione	4,052631	cancellare una prenotazione
+l_OnAssistant-prenotazione	4,052631	che giorno è oggi
+l_OnAssistant-prenotazione	4,052631	gestione appuntamento
+l_OnAssistant-prenotazione	4,052631	annullare
+l_OnAssistant-prenotazione	4,052631	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	4,052631	fermare un volo
+l_OnAssistant-prenotazione	4,052631	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	4,052631	non è necessario
+l_OnAssistant-prenotazione	4,052631	che film danno al cinema
+l_OnAssistant-prenotazione	4,052631	posso cancellare un appuntamento
+l_OnAssistant-refertazione	6,416667	pizza
+l_OnAssistant-refertazione	6,416667	mostrare i referti
+l_OnAssistant-refertazione	6,416667	hotel
+l_OnAssistant-refertazione	6,416667	ordinare del cibo
+l_OnAssistant-refertazione	6,416667	pizza
+l_OnAssistant-refertazione	6,416667	mostrare i referti
+l_OnAssistant-refertazione	6,416667	hotel
+l_OnAssistant-refertazione	6,416667	ordinare del cibo
+l_OnAssistant-refertazione	6,416667	pizza
+l_OnAssistant-refertazione	6,416667	mostrare i referti
+l_OnAssistant-refertazione	6,416667	hotel
+l_OnAssistant-refertazione	6,416667	ordinare del cibo

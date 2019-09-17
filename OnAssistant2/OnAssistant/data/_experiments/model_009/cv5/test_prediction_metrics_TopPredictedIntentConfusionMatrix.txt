@@ -1,0 +1,4 @@
+﻿Position	NumberOfClasses	RatioOfDiagonalOfCells	TotalOfDiagonalCells	TotalOfPredictions	TotalOfNoPredictions	Total
+0	3	0,822222222222222	148	180	0	180
+1	3	1	180	180	0	180
+2	3	1	180	180	0	180

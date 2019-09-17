@@ -1,0 +1,126 @@
+{
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "Visualizza Referti"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "regex_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "pasta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "pizza",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "tempo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hotel",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "albergo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Quanti anni hai?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Raccontami una barzelletta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "aereo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Fermare un volo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Riservare una camera",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Ordinare del cibo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Risultato partite di calcio",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Film",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Canzone",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "Vorrei vedere i miei referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "Visualizzare i miei referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "Mostrare i referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "Come posso vedere i referti medici?",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "Fammi vedere i miei referti perfavore",
+      "intent": "Visualizza Referti",
+      "entities": []
+    }
+  ],
+  "patterns": [],
+  "patternAnyEntities": [],
+  "prebuiltEntities": [],
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "refertazione",
+  "desc": "",
+  "culture": "en-us"
+}

@@ -1,0 +1,12 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\bin\Debug\netcoreapp2.0\SimplePromptBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\bin\Debug\netcoreapp2.0\SimplePromptBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\bin\Debug\netcoreapp2.0\SimplePromptBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\bin\Debug\netcoreapp2.0\SimplePromptBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\bin\Debug\netcoreapp2.0\SimplePromptBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\obj\Debug\netcoreapp2.0\SimplePromptBot.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\obj\Debug\netcoreapp2.0\SimplePromptBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\obj\Debug\netcoreapp2.0\SimplePromptBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\obj\Debug\netcoreapp2.0\SimplePromptBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\obj\Debug\netcoreapp2.0\SimplePromptBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\04.simple-prompt\obj\Debug\netcoreapp2.0\SimplePromptBot.pdb

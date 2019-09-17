@@ -1,0 +1,12 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\bin\Debug\netcoreapp2.0\MessageRoutingBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\bin\Debug\netcoreapp2.0\MessageRoutingBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\bin\Debug\netcoreapp2.0\MessageRoutingBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\bin\Debug\netcoreapp2.0\MessageRoutingBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\bin\Debug\netcoreapp2.0\MessageRoutingBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\obj\Debug\netcoreapp2.0\MessageRoutingBot.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\obj\Debug\netcoreapp2.0\MessageRoutingBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\obj\Debug\netcoreapp2.0\MessageRoutingBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\obj\Debug\netcoreapp2.0\MessageRoutingBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\obj\Debug\netcoreapp2.0\MessageRoutingBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\09.message-routing\obj\Debug\netcoreapp2.0\MessageRoutingBot.pdb

@@ -1,0 +1,71 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	1	prenota un appuntamento
+l_OnAssistant-prenotazione	1	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	1	appuntamento
+l_OnAssistant-prenotazione	1	gestione appuntamento
+l_OnAssistant-prenotazione	1	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	1	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	1	prenotare nuovo
+l_OnAssistant-prenotazione	1	prenotami un appuntamento
+l_OnAssistant-prenotazione	1	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	1	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	1	da martedi fino sabato
+l_OnAssistant-prenotazione	1	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	1	cancella un appuntamento
+l_OnAssistant-prenotazione	1	orario mattiniero
+l_OnAssistant-prenotazione	1	spostare appuntamento
+l_OnAssistant-prenotazione	1	mercoledi
+l_OnAssistant-prenotazione	1	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-prenotazione	1	prenota appuntamento
+l_OnAssistant-prenotazione	1	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	1	a partire da martedi fino la domenica
+l_OnAssistant-prenotazione	1	vorrei modificare
+l_OnAssistant-prenotazione	1	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	1	orario pomeridiano del lunedì
+l_OnAssistant-prenotazione	1	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	1	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	1	gradisco la mattina
+l_OnAssistant-prenotazione	1	preferirei al pomeriggio
+l_OnAssistant-prenotazione	1	nuovo appuntamento
+l_OnAssistant-prenotazione	1	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	1	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	1	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	1	desidero le disponibilità del pomeriggio
+l_OnAssistant-prenotazione	1	cambiare un appuntamento
+l_OnAssistant-prenotazione	1	prenota una prenotazione
+l_OnAssistant-prenotazione	1	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	1	cancellare una prenotazione
+l_OnAssistant-prenotazione	1	salve vorrei prenotare un appuntamento
+l_OnAssistant-refertazione	2,846154	visualizzare i miei referti
+l_OnAssistant-refertazione	2,846154	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,846154	come posso vedere i referti medici?
+l_OnAssistant-refertazione	2,846154	referti
+l_OnAssistant-refertazione	2,846154	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,846154	visualizzare i miei referti
+l_OnAssistant-refertazione	2,846154	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,846154	come posso vedere i referti medici?
+l_OnAssistant-refertazione	2,846154	referti
+l_OnAssistant-refertazione	2,846154	visualizzare i miei referti
+l_OnAssistant-refertazione	2,846154	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,846154	come posso vedere i referti medici?
+l_OnAssistant-refertazione	2,846154	referti
+None	1,48	quali film ci sono al cinema?
+None	1,48	pizza
+None	1,48	aereo
+None	2,96	fermare un volo
+None	1,48	com'è il tempo oggi
+None	1,48	prenotami un volo
+None	1,48	consigliami una canzone
+None	1,48	che ore sono?
+None	2,96	ordinare del cibo
+None	1,48	tempo
+None	2,96	risultato partite di calcio
+None	2,96	riservare una camera
+None	1,48	albergo
+None	1,48	che film danno al cinema?
+None	1,48	vorrei ordinare una pizza
+None	2,96	quanti anni hai?
+None	1,48	è possibile prenotare una camera per un albergo?
+None	1,48	canzone
+None	1,48	voglio un piatto di pasta
+None	1,48	che giorno è oggi?

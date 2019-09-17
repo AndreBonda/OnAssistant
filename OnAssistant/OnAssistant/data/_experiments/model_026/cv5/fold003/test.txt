@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	cancella un appuntamento
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	da giovedi fino alla domenica
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	cancella un appuntamento
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+l_OnAssistant-refertazione	3,7	come posso vedere i referti medici?
+None	3,083333	film
+None	3,083333	pasta
+None	3,083333	pizza
+None	6,166667	raccontami una barzelletta
+None	3,083333	hotel
+None	3,083333	film
+None	3,083333	pasta
+None	3,083333	pizza
+None	6,166667	raccontami una barzelletta
+None	3,083333	hotel

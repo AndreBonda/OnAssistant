@@ -1,0 +1,13 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	1,333333	referti
+l_OnAssistant-prenotazione	1,333333	risultato partite di calcio
+l_OnAssistant-prenotazione	1,333333	canzone
+l_OnAssistant-prenotazione	1,333333	fammi vedere i miei referti perfavore
+l_OnAssistant-prenotazione	1,333333	referti
+l_OnAssistant-prenotazione	1,333333	risultato partite di calcio
+l_OnAssistant-prenotazione	1,333333	canzone
+l_OnAssistant-prenotazione	1,333333	fammi vedere i miei referti perfavore
+l_OnAssistant-prenotazione	1,333333	referti
+l_OnAssistant-prenotazione	1,333333	risultato partite di calcio
+l_OnAssistant-prenotazione	1,333333	canzone
+l_OnAssistant-prenotazione	1,333333	fammi vedere i miei referti perfavore

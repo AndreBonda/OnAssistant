@@ -1,0 +1,128 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.0",
+  "name": "OnAssistant-refertazione",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "Visualizza Referti"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "aereo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "albergo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "canzone",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "come posso vedere i referti medici?",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "fammi vedere i miei referti perfavore",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "fermare un volo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "film",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hotel",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "mostrare i referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "ordinare del cibo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "pasta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "pizza",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "quanti anni hai?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "raccontami una barzelletta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "riservare una camera",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "risultato partite di calcio",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "tempo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "visualizzare i miei referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    },
+    {
+      "text": "vorrei vedere i miei referti",
+      "intent": "Visualizza Referti",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

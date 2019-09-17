@@ -1,0 +1,11 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\bin\Debug\netcoreapp2.0\HandlingAttachmentsBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\bin\Debug\netcoreapp2.0\HandlingAttachmentsBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\bin\Debug\netcoreapp2.0\HandlingAttachmentsBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\bin\Debug\netcoreapp2.0\HandlingAttachmentsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\bin\Debug\netcoreapp2.0\HandlingAttachmentsBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\obj\Debug\netcoreapp2.0\HandlingAttachmentsBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\obj\Debug\netcoreapp2.0\HandlingAttachmentsBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\obj\Debug\netcoreapp2.0\HandlingAttachmentsBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\obj\Debug\netcoreapp2.0\HandlingAttachmentsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\15.handling-attachments\obj\Debug\netcoreapp2.0\HandlingAttachmentsBot.pdb

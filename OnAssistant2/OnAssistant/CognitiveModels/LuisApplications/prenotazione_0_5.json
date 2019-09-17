@@ -1,0 +1,795 @@
+{
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "Gestione Appuntamenti"
+    },
+    {
+      "name": "Inserimento filtri giorni fascia"
+    },
+    {
+      "name": "Confermare"
+    },
+    {
+      "name": "Negare"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "Giorno",
+      "subLists": [
+        {
+          "canonicalForm": "Lunedi",
+          "list": [
+            "lunedì",
+            "lunedì"
+          ]
+        },
+        {
+          "canonicalForm": "Martedi",
+          "list": [
+            "martedì",
+            "martedi"
+          ]
+        },
+        {
+          "canonicalForm": "Mercoledi",
+          "list": [
+            "mercoledì",
+            "mercoledi"
+          ]
+        },
+        {
+          "canonicalForm": "Giovedi",
+          "list": [
+            "giovedì",
+            "giovedi"
+          ]
+        },
+        {
+          "canonicalForm": "Venerdi",
+          "list": [
+            "venerdì",
+            "venerdi"
+          ]
+        },
+        {
+          "canonicalForm": "Sabato",
+          "list": [
+            "sabato"
+          ]
+        },
+        {
+          "canonicalForm": "Domenica",
+          "list": [
+            "domenica"
+          ]
+        }
+      ],
+      "roles": []
+    },
+    {
+      "name": "daGiorno",
+      "subLists": [
+        {
+          "canonicalForm": "daLunedi",
+          "list": [
+            "da lunedì",
+            "da lunedi",
+            "dal lunedì",
+            "dal lunedi"
+          ]
+        },
+        {
+          "canonicalForm": "daMartedi",
+          "list": [
+            "da martedì",
+            "da martedi",
+            "dal martedì",
+            "dal martedi"
+          ]
+        },
+        {
+          "canonicalForm": "daMercoledi",
+          "list": [
+            "da mercoledì",
+            "da mercoledi",
+            "dal mercoledì",
+            "dal mercoledi"
+          ]
+        },
+        {
+          "canonicalForm": "daGiovedi",
+          "list": [
+            "da giovedì",
+            "da giovedi",
+            "dal giovedì",
+            "dal giovedi"
+          ]
+        },
+        {
+          "canonicalForm": "daVenerdi",
+          "list": [
+            "da venerdì",
+            "da venerdi",
+            "dal venerdì",
+            "dal venerdi"
+          ]
+        },
+        {
+          "canonicalForm": "daSabato",
+          "list": [
+            "da sabato",
+            "dal sabato"
+          ]
+        },
+        {
+          "canonicalForm": "daDomenica",
+          "list": [
+            "da domenica",
+            "dalla domenica"
+          ]
+        }
+      ],
+      "roles": []
+    },
+    {
+      "name": "aGiorno",
+      "subLists": [
+        {
+          "canonicalForm": "aLunedi",
+          "list": [
+            "a lunedì",
+            "a lunedi",
+            "al lunedì",
+            "al lunedi",
+            "fino lunedì",
+            "fino lunedi",
+            "fino il lunedì",
+            "fino il lunedi"
+          ]
+        },
+        {
+          "canonicalForm": "aMartedi",
+          "list": [
+            "a martedì",
+            "a martedi",
+            "al martedì",
+            "al martedi",
+            "fino martedì",
+            "fino martedi",
+            "fino il martedì",
+            "fino il martedi"
+          ]
+        },
+        {
+          "canonicalForm": "aMercoledi",
+          "list": [
+            "a mercoledì",
+            "a mercoledi",
+            "al mercoledì",
+            "al mercoledi",
+            "fino mercoledì",
+            "fino mercoledi",
+            "fino il mercoledì",
+            "fino il mercoledi"
+          ]
+        },
+        {
+          "canonicalForm": "aGiovedi",
+          "list": [
+            "a giovedì",
+            "a giovedi",
+            "al giovedì",
+            "al giovedi",
+            "fino giovedì",
+            "fino giovedi",
+            "fino il giovedì",
+            "fino il giovedi"
+          ]
+        },
+        {
+          "canonicalForm": "aVenerdi",
+          "list": [
+            "a venerdì",
+            "a venerdi",
+            "al venerdì",
+            "al venerdi",
+            "fino venerdì",
+            "fino venerdi",
+            "fino il venerdì",
+            "fino il venerdi"
+          ]
+        },
+        {
+          "canonicalForm": "aSabato",
+          "list": [
+            "a sabato",
+            "al sabato",
+            "fino sabato",
+            "fino il sabato"
+          ]
+        },
+        {
+          "canonicalForm": "aDomenica",
+          "list": [
+            "a domenica",
+            "alla domenica",
+            "fino domenica"
+          ]
+        }
+      ],
+      "roles": []
+    },
+    {
+      "name": "fasciaOra",
+      "subLists": [
+        {
+          "canonicalForm": "mattina",
+          "list": [
+            "mattino",
+            "mattina",
+            "mattinata",
+            "mattutina"
+          ]
+        },
+        {
+          "canonicalForm": "pomeriggio",
+          "list": [
+            "pomeriggio",
+            "pomeridiano",
+            "pomeridiana"
+          ]
+        }
+      ],
+      "roles": []
+    },
+    {
+      "name": "Operation",
+      "subLists": [
+        {
+          "canonicalForm": "nuovo",
+          "list": [
+            "nuovo",
+            "nuova",
+            "fissare",
+            "fissa",
+            "fissami",
+            "fermare",
+            "ferma",
+            "prenotare",
+            "prenotami",
+            "prenota"
+          ]
+        },
+        {
+          "canonicalForm": "modifica",
+          "list": [
+            "spostare",
+            "sposta",
+            "spostami",
+            "modificare",
+            "modifica",
+            "cambiare",
+            "cambia",
+            "posticipare",
+            "posticipa",
+            "rimandare",
+            "rimanda",
+            "rimandami",
+            "rinviare",
+            "rinvia",
+            "rinviami"
+          ]
+        },
+        {
+          "canonicalForm": "cancella",
+          "list": [
+            "eliminare",
+            "cancellare",
+            "revocare",
+            "rimuovere"
+          ]
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "regex_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "Vorrei ordinare una pizza",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Voglio un piatto di pasta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Com'è il tempo oggi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Vorrei prenotare un Hotel",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "è possibile prenotare una camera per un albergo?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Quanti anni hai?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Raccontami una barzelletta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "prenotami un volo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Fermare un volo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Riservare una camera",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Ordinare del cibo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Risultato partite di calcio",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Che film danno al cinema?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Consigliami una canzone",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Quali film ci sono al cinema?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Che ore sono?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Che giorno è oggi?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "Gestione appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Gestire le mie prenotazioni",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Vorrei gestire le mie prenotazioni grazie",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Gestire  i miei appuntamenti",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Gestire appuntamenti",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Vedere appuntamenti",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenotami un appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenotare un nuovo appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenotare nuovo",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Nuovo appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenota un appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenota un nuovo appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenota una prenotazione",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenota una nuova prenotazione",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Prenota appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Salve vorrei prenotare un appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Eseguire una nuova prenotazione",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Cancellare una prenotazione",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Cancella un appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Vorrei eliminare un appuntamento grazie",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Voglio rimuovere una prenotazione",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Come posso prenotare gli appuntamenti?",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "è possibile fermare una prenotazione?",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Posso cancellare un appuntamento?",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Spostare appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Cambiare un appuntamento",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Vorrei modificare",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "Vorrei rimandare un appuntamento grazie",
+      "intent": "Gestione Appuntamenti",
+      "entities": []
+    },
+    {
+      "text": "preferisco dal lunedì al giovedi",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "preferirei il martedi e il sabato",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "il martedi, mercoledi, venerdi e il sabato",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "da giovedi fino alla domenica",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "a partire da martedi fino la domenica",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "da martedi fino sabato",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "mercoledi",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "lunedì martedì mercoledì e anche la domenica",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "gradisco la mattina",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "orario mattiniero",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "desidero le disponibilità del pomeriggio",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "preferirei al pomeriggio",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "il mercoledi giovedì e venerdi al pomeriggio",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "di mattina dal venerdì alla domenica",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "disponibilità che vanno dal sabato al martedì",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "disponibilità tra il giovedì e la domenica di pomeriggio",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "orario pomeridiano del lunedì",
+      "intent": "Inserimento filtri giorni fascia",
+      "entities": []
+    },
+    {
+      "text": "si",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "si grazie",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "certo",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "certamente",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "si certo",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "ok",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "ok grazie",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "va bene",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "perfetto",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "avanti",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "si ok",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "confermo",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "si confermo",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "procedere",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "va bene procedi",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "si vai avanti perfavore",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "si vada avanti",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "si continua",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "continuare",
+      "intent": "Confermare",
+      "entities": []
+    },
+    {
+      "text": "no",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "no grazie",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "annulla",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "anulla tutto",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "non va bene",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "non è necessario",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "non voglio",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "no, non mi interessa",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "cancellare",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "annullare",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "basta",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "stop",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "fermare",
+      "intent": "Negare",
+      "entities": []
+    },
+    {
+      "text": "fermati",
+      "intent": "Negare",
+      "entities": []
+    }
+  ],
+  "patterns": [],
+  "patternAnyEntities": [],
+  "prebuiltEntities": [],
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.5",
+  "name": "prenotazione",
+  "desc": "",
+  "culture": "en-us"
+}

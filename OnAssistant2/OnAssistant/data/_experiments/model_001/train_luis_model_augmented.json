@@ -1,0 +1,330 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "Dispatch",
+  "name": "OnAssistantDispatch",
+  "desc": "Dispatch model for OnAssistantDispatch",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "l_OnAssistant-prenotazione"
+    },
+    {
+      "name": "l_OnAssistant-refertazione"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "voglio rimuovere una prenotazione",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "gestire i miei appuntamenti",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "vedere appuntamenti",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "come posso prenotare gli appuntamenti?",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenota un appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenota una prenotazione",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "salve vorrei prenotare un appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenota un nuovo appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "gestire le mie prenotazioni",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenotami un appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "posso cancellare un appuntamento?",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenota appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "vorrei modificare",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "eseguire una nuova prenotazione",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "è possibile fermare una prenotazione?",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenotare un nuovo appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenota una nuova prenotazione",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "vorrei eliminare un appuntamento grazie",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "spostare appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "prenotare nuovo",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "nuovo appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "gestione appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "cancellare una prenotazione",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "gestire appuntamenti",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "vorrei gestire le mie prenotazioni grazie",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "cambiare un appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "cancella un appuntamento",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "vorrei rimandare un appuntamento grazie",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "fammi vedere i miei referti perfavore",
+      "intent": "l_OnAssistant-refertazione",
+      "entities": []
+    },
+    {
+      "text": "visualizzare i miei referti",
+      "intent": "l_OnAssistant-refertazione",
+      "entities": []
+    },
+    {
+      "text": "mostrare i referti",
+      "intent": "l_OnAssistant-refertazione",
+      "entities": []
+    },
+    {
+      "text": "referti",
+      "intent": "l_OnAssistant-refertazione",
+      "entities": []
+    },
+    {
+      "text": "vorrei vedere i miei referti",
+      "intent": "l_OnAssistant-refertazione",
+      "entities": []
+    },
+    {
+      "text": "come posso vedere i referti medici?",
+      "intent": "l_OnAssistant-refertazione",
+      "entities": []
+    },
+    {
+      "text": "è possibile prenotare una camera per un albergo?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "consigliami una canzone",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "com'è il tempo oggi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "canzone",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "prenotami un volo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "film",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "risultato partite di calcio",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "che ore sono?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "pasta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "tempo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hotel",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "quanti anni hai?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "riservare una camera",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "vorrei prenotare un hotel",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "vorrei ordinare una pizza",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "pizza",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "che film danno al cinema?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "aereo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "fermare un volo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "che giorno è oggi?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "quali film ci sono al cinema?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "raccontami una barzelletta",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "albergo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "ordinare del cibo",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "voglio un piatto di pasta",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

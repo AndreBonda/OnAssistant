@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	vorrei modificare
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-prenotazione	2,055556	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	vorrei modificare
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	cancellare una prenotazione
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	gradisco la mattina
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+l_OnAssistant-refertazione	3,7	referti
+None	3,083333	che film danno al cinema?
+None	3,083333	vorrei prenotare un hotel
+None	3,083333	che giorno è oggi?
+None	3,083333	che ore sono?
+None	6,166667	quanti anni hai?
+None	3,083333	che film danno al cinema?
+None	3,083333	vorrei prenotare un hotel
+None	3,083333	che giorno è oggi?
+None	3,083333	che ore sono?
+None	6,166667	quanti anni hai?

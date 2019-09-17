@@ -1,0 +1,12 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\bin\Debug\netcoreapp2.0\CardsBot.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\bin\Debug\netcoreapp2.0\CardsBot.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\bin\Debug\netcoreapp2.0\CardsBot.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\bin\Debug\netcoreapp2.0\CardsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\bin\Debug\netcoreapp2.0\CardsBot.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\obj\Debug\netcoreapp2.0\CardsBot.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\obj\Debug\netcoreapp2.0\CardsBot.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\obj\Debug\netcoreapp2.0\CardsBot.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\obj\Debug\netcoreapp2.0\CardsBot.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\obj\Debug\netcoreapp2.0\CardsBot.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\06.using-cards\obj\Debug\netcoreapp2.0\CardsBot.pdb

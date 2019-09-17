@@ -1,0 +1,5 @@
+Utterance	Intents
+quanti anni hai	l_OnAssistant-prenotazione, l_OnAssistant-refertazione
+risultato partite di calcio	l_OnAssistant-prenotazione, l_OnAssistant-refertazione
+riservare una camera	l_OnAssistant-prenotazione, l_OnAssistant-refertazione
+raccontami una barzelletta	l_OnAssistant-prenotazione, l_OnAssistant-refertazione

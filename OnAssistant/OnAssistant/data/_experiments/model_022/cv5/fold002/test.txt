@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota una prenotazione
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-prenotazione	2,055556	nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota una prenotazione
+l_OnAssistant-prenotazione	2,055556	vedere appuntamenti
+l_OnAssistant-prenotazione	2,055556	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-prenotazione	2,055556	nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	gestire appuntamenti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+None	3,7	pasta
+None	3,7	tempo
+None	3,7	pizza
+None	3,7	che giorno è oggi?
+None	3,7	aereo
+None	3,7	pasta
+None	3,7	tempo
+None	3,7	pizza
+None	3,7	che giorno è oggi?
+None	3,7	aereo

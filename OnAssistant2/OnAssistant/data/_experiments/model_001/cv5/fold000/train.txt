@@ -1,0 +1,54 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	1,130435	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	1,130435	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	1,130435	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	1,130435	prenotami un appuntamento
+l_OnAssistant-prenotazione	1,130435	appuntamento
+l_OnAssistant-prenotazione	1,130435	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	1,130435	prenota appuntamento
+l_OnAssistant-prenotazione	1,130435	vorrei modificare
+l_OnAssistant-prenotazione	1,130435	eseguire una nuova prenotazione
+l_OnAssistant-prenotazione	1,130435	è possibile fermare una prenotazione?
+l_OnAssistant-prenotazione	1,130435	prenotare un nuovo appuntamento
+l_OnAssistant-prenotazione	1,130435	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	1,130435	vorrei eliminare un appuntamento grazie
+l_OnAssistant-prenotazione	1,130435	spostare appuntamento
+l_OnAssistant-prenotazione	1,130435	prenotare nuovo
+l_OnAssistant-prenotazione	1,130435	nuovo appuntamento
+l_OnAssistant-prenotazione	1,130435	gestione appuntamento
+l_OnAssistant-prenotazione	1,130435	cancellare una prenotazione
+l_OnAssistant-prenotazione	1,130435	gestire appuntamenti
+l_OnAssistant-prenotazione	1,130435	vorrei gestire le mie prenotazioni grazie
+l_OnAssistant-prenotazione	1,130435	cambiare un appuntamento
+l_OnAssistant-prenotazione	1,130435	cancella un appuntamento
+l_OnAssistant-prenotazione	1,130435	vorrei rimandare un appuntamento grazie
+l_OnAssistant-refertazione	2,6	visualizzare i miei referti
+l_OnAssistant-refertazione	2,6	mostrare i referti
+l_OnAssistant-refertazione	2,6	referti
+l_OnAssistant-refertazione	2,6	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,6	come posso vedere i referti medici?
+l_OnAssistant-refertazione	2,6	visualizzare i miei referti
+l_OnAssistant-refertazione	2,6	mostrare i referti
+l_OnAssistant-refertazione	2,6	referti
+l_OnAssistant-refertazione	2,6	vorrei vedere i miei referti
+l_OnAssistant-refertazione	2,6	come posso vedere i referti medici?
+None	1	film
+None	2	risultato partite di calcio
+None	1	che ore sono?
+None	1	pasta
+None	1	tempo
+None	1	hotel
+None	2	quanti anni hai?
+None	2	riservare una camera
+None	1	vorrei prenotare un hotel
+None	1	vorrei ordinare una pizza
+None	1	pizza
+None	1	che film danno al cinema?
+None	1	aereo
+None	2	fermare un volo
+None	1	che giorno è oggi?
+None	1	quali film ci sono al cinema?
+None	2	raccontami una barzelletta
+None	1	albergo
+None	2	ordinare del cibo
+None	1	voglio un piatto di pasta

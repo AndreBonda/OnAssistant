@@ -1,0 +1,124 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "Dispatch",
+  "name": "OnAssistantDispatch",
+  "desc": "Dispatch model for OnAssistantDispatch",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "l_OnAssistant-prenotazione"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "raccontami una barzelletta",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "pizza",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "film",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "visualizzare i miei referti",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "come posso vedere i referti medici",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "quanti anni hai",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "albergo",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "mostrare i referti",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "referti",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "risultato partite di calcio",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "canzone",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "fammi vedere i miei referti perfavore",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "aereo",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "pasta",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "riservare una camera",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "fermare un volo",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "hotel",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "ordinare del cibo",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "tempo",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    },
+    {
+      "text": "vorrei vedere i miei referti",
+      "intent": "l_OnAssistant-prenotazione",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

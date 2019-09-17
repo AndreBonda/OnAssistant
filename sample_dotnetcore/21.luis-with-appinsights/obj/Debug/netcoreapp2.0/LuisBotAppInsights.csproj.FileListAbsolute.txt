@@ -1,0 +1,11 @@
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\obj\Debug\netcoreapp2.0\LuisBotAppInsights.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\obj\Debug\netcoreapp2.0\LuisBotAppInsights.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\obj\Debug\netcoreapp2.0\LuisBotAppInsights.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\bin\Debug\netcoreapp2.0\LuisBotAppInsights.deps.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\bin\Debug\netcoreapp2.0\LuisBotAppInsights.runtimeconfig.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\bin\Debug\netcoreapp2.0\LuisBotAppInsights.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\bin\Debug\netcoreapp2.0\LuisBotAppInsights.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\bin\Debug\netcoreapp2.0\LuisBotAppInsights.pdb
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\obj\Debug\netcoreapp2.0\LuisBotAppInsights.dll
+C:\Users\abondanini\Desktop\tesi-triennale\sample_dotnetcore\21.luis-with-appinsights\obj\Debug\netcoreapp2.0\LuisBotAppInsights.pdb

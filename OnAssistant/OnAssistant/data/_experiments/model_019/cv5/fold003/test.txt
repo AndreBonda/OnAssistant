@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	appuntamento
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	gestione appuntamento
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-prenotazione	2,055556	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,055556	appuntamento
+l_OnAssistant-prenotazione	2,055556	spostare appuntamento
+l_OnAssistant-prenotazione	2,055556	gestione appuntamento
+l_OnAssistant-prenotazione	2,055556	di mattina dal venerdì alla domenica
+l_OnAssistant-prenotazione	2,055556	lunedì martedì mercoledì e anche la domenica
+l_OnAssistant-prenotazione	2,055556	il mercoledi giovedì e venerdi al pomeriggio
+l_OnAssistant-prenotazione	2,055556	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,055556	il martedi, mercoledi, venerdi e il sabato
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+l_OnAssistant-refertazione	3,7	visualizzare i miei referti
+None	5,285714	risultato partite di calcio
+None	2,642857	aereo
+None	2,642857	pizza
+None	5,285714	riservare una camera
+None	2,642857	consigliami una canzone
+None	5,285714	risultato partite di calcio
+None	2,642857	aereo
+None	2,642857	pizza
+None	5,285714	riservare una camera
+None	2,642857	consigliami una canzone

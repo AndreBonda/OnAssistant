@@ -1,0 +1,39 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota un appuntamento
+l_OnAssistant-prenotazione	2,055556	desidero le disponibilità del pomeriggio
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-prenotazione	2,055556	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,055556	prenota un appuntamento
+l_OnAssistant-prenotazione	2,055556	desidero le disponibilità del pomeriggio
+l_OnAssistant-prenotazione	2,055556	preferirei il martedi e il sabato
+l_OnAssistant-prenotazione	2,055556	vorrei rimandare un appuntamento grazie
+l_OnAssistant-prenotazione	2,055556	prenota una nuova prenotazione
+l_OnAssistant-prenotazione	2,055556	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,055556	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,055556	disponibilità tra il giovedì e la domenica di pomeriggio
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+l_OnAssistant-refertazione	3,7	vorrei vedere i miei referti
+None	3,7	che giorno è oggi?
+None	3,7	vorrei prenotare un hotel
+None	3,7	quali film ci sono al cinema?
+None	3,7	tempo
+None	3,7	hotel
+None	3,7	che giorno è oggi?
+None	3,7	vorrei prenotare un hotel
+None	3,7	quali film ci sono al cinema?
+None	3,7	tempo
+None	3,7	hotel

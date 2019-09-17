@@ -1,0 +1,31 @@
+che film danno al cinema?
+che giorno è oggi?
+che ore sono?
+com'è il tempo oggi
+consigliami una canzone
+è possibile prenotare una camera per un albergo?
+fermare un volo
+ordinare del cibo
+prenotami un volo
+quali film ci sono al cinema?
+quanti anni hai?
+raccontami una barzelletta
+riservare una camera
+risultato partite di calcio
+voglio un piatto di pasta
+vorrei ordinare una pizza
+vorrei prenotare un hotel
+aereo
+albergo
+canzone
+fermare un volo
+film
+hotel
+ordinare del cibo
+pasta
+pizza
+quanti anni hai?
+raccontami una barzelletta
+riservare una camera
+risultato partite di calcio
+tempo

@@ -1,0 +1,2 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_OnAssistant-prenotazione	20	15,7	37	4	10,916

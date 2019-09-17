@@ -1,0 +1,48 @@
+{
+    "name": "OnAssistant",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "22"
+        },
+        {
+            "type": "luis",
+            "appId": "1987a8ba-2b45-4985-bd0b-821f0755d9f5",
+            "authoringKey": "enZeQ6s6W5xOPwax05GWOQ==!bmHpwA3UUHbz2idVye2a0UBS0wpx+l3ocbfs0qAhG7vD3EAX5euDz25iaJ8Oyprv",
+            "version": "1.0",
+            "region": "westus",
+            "name": "OnAssistant-prenotazione",
+            "id": "1"
+        },
+        {
+            "type": "luis",
+            "appId": "9bcf2522-15be-470c-a94d-4c0ec6778419",
+            "authoringKey": "Lu/xByle8jLmrzXAg1c6OA==!ve7Fn2vm5FfZBBafxC2KiKD1O603U8umAkzatg6VaZj8PnI4sOmVHv6exAf7pINo",
+            "version": "0.0",
+            "region": "westus",
+            "name": "OnAssistant-refertazione",
+            "id": "2"
+        },
+        {
+            "type": "dispatch",
+            "name": "OnAssistantDispatch",
+            "appId": "fe6e355d-0781-4ea7-a74d-cbf4b8cc4203",
+            "authoringKey": "YsqIbzcZLh7ytrbPgGeZ1w==!n1Ap1TAiNCTFPhm91br3I+uAFPRn8jySo3nNrpALjZsAO4gXpFrTOmcwvgzx24Ii",
+            "subscriptionKey": "ozf9w9xEMg5W2oP+rl3Kgg==!rYTbBs4R8/EXNxF/qcOs7PxEQRln6yBikI9MVQ0JX4THvNKMV2zSI+Cxb7mL0+25",
+            "version": "Dispatch",
+            "region": "westus",
+            "serviceIds": [
+                "1",
+                "2"
+            ],
+            "id": "56"
+        }
+    ],
+    "padlock": "AB1Xe1yjY7I/8iNTYE10cQ==!NooVzATNLv7uVrM3KokseQwcqzjzhmB/MRQsF2ZL4ogQNaTBEcfTMZ+LdFfPjPBF",
+    "version": "2.0"
+}

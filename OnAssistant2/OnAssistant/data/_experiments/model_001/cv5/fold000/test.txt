@@ -1,0 +1,33 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,166667	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,166667	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,166667	vedere appuntamenti
+l_OnAssistant-prenotazione	2,166667	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,166667	prenota un appuntamento
+l_OnAssistant-prenotazione	2,166667	prenota una prenotazione
+l_OnAssistant-prenotazione	2,166667	voglio rimuovere una prenotazione
+l_OnAssistant-prenotazione	2,166667	gestire i miei appuntamenti
+l_OnAssistant-prenotazione	2,166667	vedere appuntamenti
+l_OnAssistant-prenotazione	2,166667	come posso prenotare gli appuntamenti?
+l_OnAssistant-prenotazione	2,166667	prenota un appuntamento
+l_OnAssistant-prenotazione	2,166667	prenota una prenotazione
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+l_OnAssistant-refertazione	2,6	fammi vedere i miei referti perfavore
+None	2,6	è possibile prenotare una camera per un albergo?
+None	2,6	consigliami una canzone
+None	2,6	com'è il tempo oggi
+None	2,6	canzone
+None	2,6	prenotami un volo
+None	2,6	è possibile prenotare una camera per un albergo?
+None	2,6	consigliami una canzone
+None	2,6	com'è il tempo oggi
+None	2,6	canzone
+None	2,6	prenotami un volo

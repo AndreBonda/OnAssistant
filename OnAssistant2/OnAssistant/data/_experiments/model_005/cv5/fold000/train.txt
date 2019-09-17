@@ -1,0 +1,17 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	1	come posso vedere i referti medici
+l_OnAssistant-prenotazione	1	quanti anni hai
+l_OnAssistant-prenotazione	1	albergo
+l_OnAssistant-prenotazione	1	mostrare i referti
+l_OnAssistant-prenotazione	1	referti
+l_OnAssistant-prenotazione	1	risultato partite di calcio
+l_OnAssistant-prenotazione	1	canzone
+l_OnAssistant-prenotazione	1	fammi vedere i miei referti perfavore
+l_OnAssistant-prenotazione	1	aereo
+l_OnAssistant-prenotazione	1	pasta
+l_OnAssistant-prenotazione	1	riservare una camera
+l_OnAssistant-prenotazione	1	fermare un volo
+l_OnAssistant-prenotazione	1	hotel
+l_OnAssistant-prenotazione	1	ordinare del cibo
+l_OnAssistant-prenotazione	1	tempo
+l_OnAssistant-prenotazione	1	vorrei vedere i miei referti

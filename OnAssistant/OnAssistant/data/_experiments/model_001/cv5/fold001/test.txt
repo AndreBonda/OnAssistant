@@ -1,0 +1,33 @@
+Label	Weight	Text
+l_OnAssistant-prenotazione	2,083333	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,083333	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,083333	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,083333	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,083333	appuntamento
+l_OnAssistant-prenotazione	2,083333	posso cancellare un appuntamento?
+l_OnAssistant-prenotazione	2,083333	salve vorrei prenotare un appuntamento
+l_OnAssistant-prenotazione	2,083333	prenota un nuovo appuntamento
+l_OnAssistant-prenotazione	2,083333	gestire le mie prenotazioni
+l_OnAssistant-prenotazione	2,083333	prenotami un appuntamento
+l_OnAssistant-prenotazione	2,083333	appuntamento
+l_OnAssistant-prenotazione	2,083333	posso cancellare un appuntamento?
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+l_OnAssistant-refertazione	2,5	visualizzare i miei referti
+None	2,083333	film
+None	4,166667	risultato partite di calcio
+None	2,083333	che ore sono?
+None	2,083333	pasta
+None	2,083333	tempo
+None	2,083333	film
+None	4,166667	risultato partite di calcio
+None	2,083333	che ore sono?
+None	2,083333	pasta
+None	2,083333	tempo
