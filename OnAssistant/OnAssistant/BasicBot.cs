@@ -151,7 +151,7 @@ namespace OnAssistant
             else if (value == BotNames.EntitySpostaApp)
             {
                 await stepContext.Context.SendActivityAsync("Mi dispiace ma attualmente non sono in grado di spostare un appuntamento.");
-                await stepContext.Context.SendActivityAsync("Vuoi prenotare un nuovo appuntamento o accedere al servizio FAQ?");
+                await stepContext.Context.SendActivityAsync("Vuoi accedere al servizio appuntamenti o alle FAQ?");
                 TopicState.ResetTopicState(topicState);
                 return await stepContext.CancelAllDialogsAsync(cancellationToken);
             }
@@ -168,10 +168,6 @@ namespace OnAssistant
 
         private async Task<DialogTurnResult> ProcessResultAsync(WaterfallStepContext stepContext, CancellationToken cancellationToken)
         {
-            //var result = (IDictionary<string, object>)stepContext.Result;
-            //result.TryGetValue("nome", out var name);
-            //result.TryGetValue("cognome", out var surname);
-
             TopicState.ResetTopicState(topicState);
             await stepContext.Context.SendActivityAsync(MessageFactory.Text($"Prenotazione avvenuta con successo!"), cancellationToken);
             // runtime è terminato fuori dal dialogo waterfall.
@@ -244,7 +240,7 @@ namespace OnAssistant
             if (topicState.RestartConversation)
             {
                 topicState.RestartConversation = false;
-                await turnContext.SendActivityAsync("Vuoi prenotare un nuovo appuntamento o accedere al servizio FAQ?");
+                await turnContext.SendActivityAsync("Vuoi accedere al servizio appuntamenti o alle FAQ?");
             }
             else
             {
@@ -276,7 +272,7 @@ namespace OnAssistant
             switch (topIntent.Value.intent)
             {
                 case prenotazioneDispatchIntent:
-                    await context.SendActivityAsync("Certo, quale operazioni desideri effettuare?");
+                    await context.SendActivityAsync("Preferisci prenotare un nuovo appuntamento o disdirne uno prenotato?");
                     topicState.LuisModuleInUse = BotNames.LuisPrenotazione;
                     topicState.LuisEntitiesInUse = BotNames.PrenotationEntities;
                     break;
@@ -287,7 +283,7 @@ namespace OnAssistant
                     break;
 
                 case noneDispatchIntent:
-                    await context.SendActivityAsync("Cosa vuoi fare? Puoi prenotare un nuovo appuntamento, o accedere al servizio FAQ.");
+                    await context.SendActivityAsync("Cosa vuoi fare? Puoi prenotare un nuovo appuntamento, o accedere al servizio FAQ. (da implementare)");
 
                     break;
             }

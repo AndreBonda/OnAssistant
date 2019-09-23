@@ -31,7 +31,7 @@ namespace OnAssistant.OnHealthAPI
 
             using (HttpClient client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "F70AA0F0-9CEF-4A82-93C0-D4FAA65DA02D");
+                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "570471BA-AF6B-4E50-B24A-7D53F245282A");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_ManagerAppId", "OnHospital");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_IdAzienda", "080112");
 
@@ -67,7 +67,7 @@ namespace OnAssistant.OnHealthAPI
 
             using (HttpClient client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "F70AA0F0-9CEF-4A82-93C0-D4FAA65DA02D");
+                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "570471BA-AF6B-4E50-B24A-7D53F245282A");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_ManagerAppId", "OnHospital");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_IdAzienda", "080112");
 
@@ -135,7 +135,7 @@ namespace OnAssistant.OnHealthAPI
 
             using (HttpClient client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "F70AA0F0-9CEF-4A82-93C0-D4FAA65DA02D");
+                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "570471BA-AF6B-4E50-B24A-7D53F245282A");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_ManagerAppId", "OnHospital");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_IdAzienda", "080112");
                 string url = string.Format("http://localhost/On.Portal/On.Health/On.Hospital/API/PrenotazioneIntegrata/RicercaDisponibilita?{0}", queryString.ToString());
@@ -185,7 +185,7 @@ namespace OnAssistant.OnHealthAPI
             RicercaDisponibilitaDTO result = new RicercaDisponibilitaDTO();
             using (HttpClient client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "F70AA0F0-9CEF-4A82-93C0-D4FAA65DA02D");
+                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "570471BA-AF6B-4E50-B24A-7D53F245282A");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_ManagerAppId", "OnHospital");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_IdAzienda", "080112");
                 string url = string.Format("http://localhost/On.Portal/On.Health/On.Hospital/API/PrenotazioneIntegrata/RicercaDisponibilita?{0}", queryString.ToString());
@@ -216,7 +216,7 @@ namespace OnAssistant.OnHealthAPI
             BloccaDisponibilitaDTO result = new BloccaDisponibilitaDTO();
             using (HttpClient client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "F70AA0F0-9CEF-4A82-93C0-D4FAA65DA02D");
+                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "570471BA-AF6B-4E50-B24A-7D53F245282A");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_ManagerAppId", "OnHospital");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_IdAzienda", "080112");
 
@@ -264,7 +264,7 @@ namespace OnAssistant.OnHealthAPI
             AppuntamentoConfermatoDTO result = new AppuntamentoConfermatoDTO();
             using (HttpClient client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "F70AA0F0-9CEF-4A82-93C0-D4FAA65DA02D");
+                client.DefaultRequestHeaders.Add("OnHospitalAPI_APK", "570471BA-AF6B-4E50-B24A-7D53F245282A");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_ManagerAppId", "OnHospital");
                 client.DefaultRequestHeaders.Add("OnHospitalAPI_IdAzienda", "080112");
 

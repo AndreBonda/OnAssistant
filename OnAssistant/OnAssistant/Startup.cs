@@ -99,6 +99,7 @@ namespace Microsoft.BotBuilderSamples
                 throw new InvalidOperationException($"The .bot file does not contain an endpoint with name '{environment}'.");
             }
 
+            // Inizializzazione dei servizi
             var connectedServices = InitBotServices(botConfig);
             services.AddSingleton(sp => connectedServices);
             services.AddBot<BasicBot>(options =>

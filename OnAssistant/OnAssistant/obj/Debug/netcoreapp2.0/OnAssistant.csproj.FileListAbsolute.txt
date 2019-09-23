@@ -31,3 +31,14 @@ D:\Andrea\tesi-triennale\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssis
 D:\Andrea\tesi-triennale\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.AssemblyInfo.cs
 D:\Andrea\tesi-triennale\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.dll
 D:\Andrea\tesi-triennale\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.pdb
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\bin\Debug\netcoreapp2.0\OnAssistant.deps.json
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\bin\Debug\netcoreapp2.0\OnAssistant.runtimeconfig.json
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\bin\Debug\netcoreapp2.0\OnAssistant.runtimeconfig.dev.json
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\bin\Debug\netcoreapp2.0\OnAssistant.dll
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\bin\Debug\netcoreapp2.0\OnAssistant.pdb
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.csprojAssemblyReference.cache
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.csproj.CoreCompileInputs.cache
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.AssemblyInfoInputs.cache
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.AssemblyInfo.cs
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.dll
+C:\Users\abondanini\Desktop\OnAssistant\OnAssistant\OnAssistant\OnAssistant\obj\Debug\netcoreapp2.0\OnAssistant.pdb

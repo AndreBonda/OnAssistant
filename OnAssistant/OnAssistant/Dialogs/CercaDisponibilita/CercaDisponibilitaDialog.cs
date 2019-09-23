@@ -45,7 +45,7 @@ namespace OnAssistant.Dialogs.CercaDisponibilita
                     // fine prestazioni
                     TopicState.ResetTopicState(_topicState);
                     await dc.Context.SendActivityAsync("Le prestazioni da prenotare sono terminate.");
-                    await dc.Context.SendActivityAsync("Vuoi prenotare un nuovo appuntamento o accedere al servizio FAQ?");
+                    await dc.Context.SendActivityAsync("Vuoi accedere al servizio appuntamenti o alle FAQ?");
                     return await dc.EndDialogAsync(dc, cancellationToken);
                 }
                 else
@@ -77,7 +77,7 @@ namespace OnAssistant.Dialogs.CercaDisponibilita
                     // fine prestazioni
                     TopicState.ResetTopicState(_topicState);
                     await dc.Context.SendActivityAsync("Le prestazioni sono terminate.");
-                    await dc.Context.SendActivityAsync("Vuoi prenotare un nuovo appuntamento o accedere al servizio FAQ?");
+                    await dc.Context.SendActivityAsync("Vuoi accedere al servizio appuntamenti o alle FAQ?");
                     return await dc.CancelAllDialogsAsync(cancellationToken);
                 }
                 else
@@ -85,7 +85,6 @@ namespace OnAssistant.Dialogs.CercaDisponibilita
                     // presente almeno un'altra prestazione da prenotare
                     return await ContinueDialogAsync(dc, cancellationToken);
                 }
-
             }
         }
 

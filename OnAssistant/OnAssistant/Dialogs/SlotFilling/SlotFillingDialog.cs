@@ -145,7 +145,7 @@ namespace OnAssistant.Dialogs.SlotFilling
             switch (slotName)
             {
                 case BotNames.CodiceFiscale:
-                    result = "BNDNDR95H05C573M"; // todo: delete this row
+                    //result = "BNDNDR95H05C573M"; // todo: delete this row
                     var paw = await OnHealthAPI.OnHealthAPI.RecuperaCodicePazienteWeb(result.ToString());
                     if (!string.IsNullOrEmpty(paw))
                     {
@@ -172,7 +172,7 @@ namespace OnAssistant.Dialogs.SlotFilling
                     break;
 
                 case BotNames.CodiceRE:
-                    result = "080123456789120"; // todo: delete this row
+                    //result = "080123456789120"; // todo: delete this row
                     var res = await OnHealthAPI.OnHealthAPI.RicercaPrestazioniDema(result.ToString(), _topicState.IdPawUser);
                     if (res.PrestazioniEffettive != null && res.PrestazioniEffettive.Count > 0)
                     {
@@ -190,7 +190,7 @@ namespace OnAssistant.Dialogs.SlotFilling
                     {
                         TopicState.ResetTopicState(_topicState);
                         await dialogContext.Context.SendActivityAsync("Non ho trovato nessuna prestazione associata, la prenotazione è stata annullata.");
-                        await dialogContext.Context.SendActivityAsync("Vuoi prenotare un nuovo appuntamento o accedere al servizio FAQ?");
+                        await dialogContext.Context.SendActivityAsync("Vuoi accedere al servizio appuntamenti o alle FAQ?");
                         return await dialogContext.CancelAllDialogsAsync(cancellationToken);
                     }
 
