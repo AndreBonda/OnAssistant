@@ -190,7 +190,7 @@ namespace OnAssistant.Dialogs.SlotFilling
                     {
                         TopicState.ResetTopicState(_topicState);
                         await dialogContext.Context.SendActivityAsync("Non ho trovato nessuna prestazione associata, la prenotazione è stata annullata.");
-                        await dialogContext.Context.SendActivityAsync("Vuoi accedere al servizio appuntamenti o alle FAQ?");
+                        //await dialogContext.Context.SendActivityAsync("Vuoi accedere al servizio appuntamenti o alle FAQ?");
                         return await dialogContext.CancelAllDialogsAsync(cancellationToken);
                     }
 

@@ -1,4 +1,9 @@
-﻿Codice nre valido
+﻿CONFIGURAZIONE API ONHEALTH:
+Label OnHospital 8.8.7 (28/02/2019) + Shelve
+IIS (Default pool 32 bit)
+Custom Arzignano
+
+Codice nre valido
 15 caratteri
 no spazi vuoti
 primi 3 caratteri: 080 -> Emilia-romagna
