@@ -1,5 +1,0 @@
-Utterance	Expected Intent	Predicted Intent
-è possibile fermare una prenotazione?	l_OnAssistant-prenotazione	            None
-gestire le mie prenotazioni	l_OnAssistant-prenotazione	            None
-prenotare nuovo	l_OnAssistant-prenotazione	            None
-vorrei modificare	l_OnAssistant-prenotazione	            None

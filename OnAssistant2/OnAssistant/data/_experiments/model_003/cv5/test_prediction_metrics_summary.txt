@@ -1,4 +1,0 @@
-﻿Intent ID	Intent Name (linked to charts)	Prevalence	AUC ROC	AUC ROC Weighted	AUC PRC	AUC PRC Weighted
-0	<A HREF="C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\OnAssistant\OnAssistant\data\_experiments\model_003\cv5\test_prediction_metrics_000.html">l_OnAssistant-prenotazione</A>	0,52	0,696	0,696	0,743	0,743
-1	<A HREF="C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\OnAssistant\OnAssistant\data\_experiments\model_003\cv5\test_prediction_metrics_000.html">l_OnAssistant-refertazione</A>	0,48	0,806	0,806	0,719	0,719
-2	<A HREF="C:\Users\Andrea\Desktop\Appunti uni\Tesi\tesi-triennale\OnAssistant\OnAssistant\data\_experiments\model_003\cv5\test_prediction_metrics_000.html">None</A>	0	NaN	NaN	NaN	NaN

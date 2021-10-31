@@ -1,6 +1,0 @@
-Utterance	Expected Intent	Predicted Intent
-vorrei modificare	l_OnAssistant-prenotazione	            None
-prenotare nuovo	l_OnAssistant-prenotazione	            None
-gradisco la mattina	l_OnAssistant-prenotazione	            None
-mercoledi	l_OnAssistant-prenotazione	            None
-è possibile fermare una prenotazione?	l_OnAssistant-prenotazione	            None

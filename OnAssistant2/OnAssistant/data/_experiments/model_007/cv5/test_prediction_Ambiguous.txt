@@ -1,2 +1,0 @@
-Utterance	Expected and Predicted Intent	Other High Scoring Intents
-canzone	                         None	l_OnAssistant-prenotazione

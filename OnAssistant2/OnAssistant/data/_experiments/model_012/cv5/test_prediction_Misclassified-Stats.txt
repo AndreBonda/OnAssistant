@@ -1,7 +1,0 @@
-Misclassified samples (percent of total per category)
-Expected Intent	l_OnAssistant-prenotazione%	l_OnAssistant-refertazione%	 None%	Total%
-l_OnAssistant-prenotazione	  0,00	  0,00	  8,89	  8,89
-
-Misclassified samples (absolute counts)
-Expected Intent	l_OnAssistant-prenotazione	l_OnAssistant-refertazione	  None	 Total
-l_OnAssistant-prenotazione	     0	     0	     4	     4

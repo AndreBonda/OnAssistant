@@ -27,9 +27,6 @@ namespace OnAssistant
     /// </summary>
     public class BasicBot : IBot
     {
-        private static int _numCF = 16;
-        private static int _numRE = 15;
-        private readonly UserState _userState;
         private readonly BasicBotAccessor _botAccessors;
         private TopicState topicState;
         private BotServices _services;

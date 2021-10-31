@@ -1,5 +1,0 @@
-Utterance	Intents
-fermare un volo	l_OnAssistant-prenotazione, l_OnAssistant-refertazione
-quanti anni hai	l_OnAssistant-prenotazione, l_OnAssistant-refertazione
-ordinare del cibo	l_OnAssistant-prenotazione, l_OnAssistant-refertazione
-riservare una camera	l_OnAssistant-prenotazione, l_OnAssistant-refertazione

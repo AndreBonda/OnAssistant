@@ -1,0 +1,35 @@
+﻿{
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": 2,
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Onit Group srl"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Registrati su OnHealth",
+              "weight": "bolder",
+              "size": "extraLarge",
+              "spacing": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Apri nel browser",
+      "url": "https://poliambulatori.onit.it/Onit.OnPortal/Login17.aspx"
+    }
+  ]
+}

@@ -1,2 +1,0 @@
-﻿Log Loss	Brier Score	Quadratic Score	Spherical Score	Log Loss Weighted	Brier Score Weighted	Quadratic Score Weighted	Spherical Score Weighted
-0,334	0,202	0,798	0,89	0,334	0,202	0,798	0,89
