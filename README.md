@@ -1,5 +1,5 @@
 # OnAssistant
-Una chatbot che permette la prenotazione di prestazioni mediche attraverso l'utilizzo di un'applicazione di messaggistica istantanea.
+Una chatbot che permette la prenotazione di prestazioni mediche SSN attraverso l'utilizzo di un'applicazione di messaggistica istantanea.
 
 # Interfacciamento con OnHealth API
 Per l’effettivo funzionamento, il software si integra con un altro applicativo sviluppato dall’azienda Onit Group, ovvero On.Health; una piattaforma web-based che permette la completa gestione dei processi clinici delle organizzazioni sanitarie. Nello specifico il bot richiama un set di REST API per tutti i processi attinenti alle informazioni del paziente, ricerca degli appuntamenti e recupero delle informazioni sulle visite specialistiche.
